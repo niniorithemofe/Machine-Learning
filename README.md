@@ -1,7 +1,7 @@
 # Machine-Learning projects
 object dection, object classification, Arima model, gaussian process regression, lasso regression, pretrained models and stuff like that 
 
-# Waste classification project
+# Waste classification project:
 this is a classification model that is used to classify waste into various categories such as cardboard, glass, plastic.includes data preprocessing, augmentation and hypertuned paramters
 
 # Object dection project:
