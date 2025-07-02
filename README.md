@@ -1,11 +1,12 @@
-# Machine-Learning projects
-object dection, object classification, Arima model, gaussian process regression, lasso regression, pretrained models and stuff like that 
+# Machine Learning Projects
+Includes a range of machine learning techniques such as object detection, object classification, ARIMA modeling, Gaussian Process Regression, Lasso Regression, and the use of pretrained models. These projects focus on both predictive modeling and data-driven decision-making, incorporating data preprocessing, hyperparameter tuning, and performance evaluation.
 
-# Waste classification project:
-this is a classification model that is used to classify waste into various categories such as cardboard, glass, plastic.includes data preprocessing, augmentation and hypertuned paramters
+# Waste Classification Project
+A classification model designed to categorize waste into distinct types such as cardboard, glass, and plastic. The project includes comprehensive data preprocessing, data augmentation techniques, and hyperparameter tuning to improve model accuracy and robustness.
 
-# Object dection project:
-this project utilizes the yolo objection pretrained model for object dection. includes data preprocessing, augmentation and hypertuned paramters
+# Object Detection Project
+This project leverages the YOLO (You Only Look Once) pretrained model for real-time object detection. Key components include image preprocessing, data augmentation, and fine-tuned hyperparameters to enhance detection accuracy and efficiency.
 
-# Donation item label and image classifier:
-this project is a part of the sharebox app which is a optimized donation box system. that uses the label and images of a submitted donation to decided whether the donation should be accepted or recycled 
+# Donation Item Label & Image Classifier (ShareBox App)
+Part of the ShareBox application—an optimized smart donation box system—this project involves a classification model that evaluates both the image and label of submitted donations. The model determines whether an item should be accepted or redirected for recycling. The system includes data preprocessing, image augmentation, and model optimization to ensure reliable classification.
+
